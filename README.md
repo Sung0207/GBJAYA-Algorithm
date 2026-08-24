@@ -1,2 +1,2 @@
 # GBJAYA-Algorithm
-A Variant of JAYA algorithm
+Gaussian bare-bone JAYA algorithm for reliable ground motion model development, submitted for Arabian Journal for Science and Engineering  
