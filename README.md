@@ -14,6 +14,8 @@ IJAYA is an improved JAYA algorithm,
 Forward modelling: GPApreBindi and GPApreZhao
 
 =========================================
+
 Data: Zhao06.xlsx and Bindi.xlsx
 +++++++++++++++++++++++++++++++++++++++
+
 Search Space: m_Zhao and m_bindi
