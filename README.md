@@ -3,11 +3,11 @@ Gaussian bare-bone JAYA algorithm for reliable ground motion model development, 
 +++++++++++++++++++++++++++++
 
 JAYA variants:
-JAYA is the original JAYA algorithm
-GBJAYA is a Gaussian Bare-bone JAYA algorithm
-CLJAYA is a comprehensive Learning JAYA algorithm
-PSO is Regressive-Regressive PSO
-IJAYA is an improved JAYA algorithm
+JAYA is the original JAYA algorithm,
+GBJAYA is a Gaussian Bare-bone JAYA algorithm,
+CLJAYA is a comprehensive Learning JAYA algorithm,
+PSO is Regressive-Regressive PSO,
+IJAYA is an improved JAYA algorithm,
 
 ++++++++++++++++++++++++++++++++
 
